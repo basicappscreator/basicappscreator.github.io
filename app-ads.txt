@@ -1,0 +1,7 @@
+# app-ads.txt
+# For more information about this file, visit https://iabtechlab.com/ads-txt
+
+# Add your ad network declarations here
+# Format: <DOMAIN>, <ACCOUNT-ID>, <TYPE>, <CERTIFICATE-AUTHORITY>
+# Example:
+# google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
